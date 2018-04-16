@@ -1,3 +1,9 @@
+/*EjemplosTipos
+Usar los distintos tipos de datos y realizar ejemplos
+ED
+16 04 2018
+*/
+
 #include <iostream>
 
 using namespace std;
