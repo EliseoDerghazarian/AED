@@ -1,0 +1,24 @@
+•Etapa #1. Análisis del problema:
+
+◦ Transcripción del problema.
+Obtener del usuario 2 numeros y mostrarle la suma.
+
+◦ Refinamiento del problema e Hipótesis de trabajo.
+Los numeros deben ser de tipo entero.
+
+◦ Modelo IPO.
+Subido en formato .jpg
+
+•Etapa #2 Diseño de la Solución:
+
+◦ Léxico del Algoritmo.
+0- a y b pertenecen al conjunto de los Enteros.
+
+◦ Representación del Algoritmo 
+▪ Representación visual.
+Subido en formato .jpg
+
+▪ Representación textual.
+1- Leer y guardar en a.
+2- Leer y guardar en b.
+3- Mostrar a+b
