@@ -48,3 +48,7 @@ VI)
 1) Inicializar la variable k con un valor verdadero.
 2) Inicializar la variable l con un valor falso.
 3) Mostrar ambas.
+
+¿Son esos realmente todos los tipos que vimos en clase? Justifique.
+No, no son todos los tipos que vimos en clase. En efecto, hay mas como por ejemplo tipo de dato float, que con punto flotante o tipo de dato void que no devuelve nada. 
+
