@@ -41,8 +41,10 @@ int main()
 
     // Usando tipo de dato bool
 
-    bool variable = true;
-    cout << variable;
+    bool k = true;
+    cout << k;
+    bool l = false;
+    cout << l;
 
 }
 
