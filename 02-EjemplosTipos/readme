@@ -1,0 +1,50 @@
+• Etapa #1: Análisis del Problema.
+◦ Transcripción del problema.
+Diseñar un programa C++ que ejemplifique la aplicación de los tipos de datos
+vistos en clases.
+
+◦ Refinamiento del problema e hipótesis de trabajo.
+Los tipos datos vistos en clase fueron: int, unsigned, double, char, string y bool.
+
+◦ Modelo IPO con:
+Subido en formato .jpg
+
+• Etapa #2: Diseño de la solución. 
+◦ Léxico del Algoritmo.
+I) a y b pertenecen al conjunto de enteros.
+ii) c y d pertenecen al conjunto de los reales.
+III) e y f pertenecen al conjunto de los naturales.
+IV) g y h pertenecen al conjunto de los caracteres alfanumericos. Cada variable puede tomar el valor de un caracter solamente.
+V) i y j pertenecen al conjunto de los caracteres alfanumericos. Cada variable puede tomar el valor de uno o mas caracteres.
+VI) k y l pueden tomar el valor de verdadero o falso.
+
+◦ Representación textual del Algoritmo.
+I) 
+1) Inicializar la variable a con un numero entero.
+2) Inicializar la variable b con un numero entero.
+3) Mostrar la suma entre a y b.
+
+II)
+1) Inicializar la variable c con un numero real. En este caso decimal.
+2) Inicializar la variable d con un numero real. En este caso decimal.
+3) Mostrar la suma entre c y d.
+
+III)
+1) Inicializar la variable e con un numero natural.
+2) Inicializar la variable f con un numero natural.
+3) Mostrar la resta entre e y f.
+
+IV) 
+1) Inicializar la variable g con un caracter.
+2) Inicializar la variable h con un caracter.
+3) Mostrar ambos con una descripcion.
+
+V)
+1) Inicializar la variable i con una cadena de caracteres.
+2) Inicializar la variable j con una cadena de caracteres.
+3) Mostrar ambas cadenas concatenadas.
+
+VI)
+1) Inicializar la variable k con un valor verdadero.
+2) Inicializar la variable l con un valor falso.
+3) Mostrar ambas.
