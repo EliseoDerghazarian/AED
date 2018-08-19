@@ -19,36 +19,45 @@ V) i y j pertenecen al conjunto de los caracteres alfanumericos. Cada variable p
 VI) k y l pueden tomar el valor de verdadero o falso.
 
 ◦ Representación textual del Algoritmo.
-I) 
-1) Inicializar la variable a con un numero entero.
-2) Inicializar la variable b con un numero entero.
-3) Mostrar la suma entre a y b.
+I) TIPO ENTERO
+1) Inicializar las variables a y b con un numero entero cada una.
+2) Verificar la suma de a y b.
+3) Verificar el producto entre a y b.
+4) Verificar la resta entre b y a
 
-II)
-1) Inicializar la variable c con un numero real. En este caso decimal.
-2) Inicializar la variable d con un numero real. En este caso decimal.
-3) Mostrar la suma entre c y d.
+II) TIPO DOUBLE
+1) Inicializar las variables c y d con un numero real cada una. En este caso decimal.
+2) Verificar la resta entre c y d.
+3) Verificar que la suma de c y d sea distinto que 80,7.
+4) Verificar que c y d sean distintos entre si.
 
-III)
-1) Inicializar la variable e con un numero natural.
-2) Inicializar la variable f con un numero natural.
-3) Mostrar la resta entre e y f.
+III) TIPO UNSIGNED
+1) Inicializar las variables e y f con un numero natural cada una.
+2) Verificar que e y f sean iguales.
+3) Verificar que de 1 como resultado de la division entre e y f.
+4) Verificar que de 0 como resultado de la resta entre e y f.
 
-IV) 
-1) Inicializar la variable g con un caracter.
-2) Inicializar la variable h con un caracter.
-3) Mostrar ambos con una descripcion.
+IV) TIPO CHAR
+1) Inicializar las variables g y h con un caracter cada una.
+2) Verificar que el caracter B sea 66 en codigo ASCII.
+3) Verificar que el caracter b sea 98 en codigo ASCII.
+4) Verificar que de como resultado 164 en codigo ASCII sumando g y h.
 
-V)
-1) Inicializar la variable i con una cadena de caracteres.
-2) Inicializar la variable j con una cadena de caracteres.
-3) Mostrar ambas cadenas concatenadas.
+V) TIPO STRING
+1) Inicializar las variables i y j con una cadena de caracteres cada una.
+2) Verificar que la longitud de i sea igual a 7.
+3) Verificar que la longitud de i sea mayor o igual a la longitud de j.
+4) Verificar que la longitud de j es distinta de 10.
 
-VI)
+VI) TIPO BOOK
 1) Inicializar la variable k con un valor verdadero.
-2) Inicializar la variable l con un valor falso.
-3) Mostrar ambas.
+2) Asignar a k el valor de k y verdadero.
+3) Verificar que k sea verdadero.
+4) Inicializar la variable l con un valor falso.
+5) Asignar a l el valor de l o falso.
+3) Verificar que l sea falsa.
 
 ¿Son esos realmente todos los tipos que vimos en clase? Justifique.
-No, no son todos los tipos que vimos en clase. En efecto, hay mas como por ejemplo tipo de dato float, que con punto flotante o tipo de dato void que no devuelve nada. 
+No, no son todos los tipos los que vimos en clase. En efecto, hay mas como por ejemplo tipo de dato float, 
+o tipo de dato void.
 
