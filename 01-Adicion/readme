@@ -1,4 +1,4 @@
-﻿•Etapa #1. Análisis del problema:
+•Etapa #1. Análisis del problema:
 
 ◦ Transcripción del problema.
 Obtener del usuario 2 numeros y mostrarle la suma.
@@ -7,6 +7,7 @@ Obtener del usuario 2 numeros y mostrarle la suma.
 Los numeros deben ser de tipo entero.
 
 ◦ Modelo IPO.
+
 ![ipo]
 
 •Etapa #2 Diseño de la Solución:
